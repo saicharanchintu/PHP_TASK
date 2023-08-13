@@ -7,14 +7,18 @@ Features
 Here's a rundown of the key features that the Contact Form project offers:
 
 -> An intuitive contact form that includes fields for the user's full name, phone number, email, subject, and message.
+
 -> Secure storage of submitted data in a MySQL database for convenient retrieval and reference.
+
 -> Automatic email notifications triggered for each form submission, ensuring that designated recipients stay informed.
+
 
 Prerequisites
 
 Before you begin the installation, make sure you have the following prerequisites in place:
 
 -> A web server that supports PHP (e.g., Apache, Nginx).
+
 -> A functional MySQL database server.
 
 
